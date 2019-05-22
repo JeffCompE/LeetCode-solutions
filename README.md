@@ -1,2 +1,2 @@
 # LeetcodeSolutions
-solutions of Leetcode quesions
+Solutions of Leetcode quesions
